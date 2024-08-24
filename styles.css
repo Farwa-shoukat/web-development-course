@@ -1,0 +1,51 @@
+/* Custom Styles */
+
+/* Navbar custom styles */
+.custom-navbar {
+    background-color: #343a40;
+    border: none;
+}
+
+.custom-navbar .navbar-brand {
+    color: #ffffff;
+    font-weight: bold;
+    font-size: 24px;
+}
+
+.custom-navbar .navbar-toggle {
+    border-color: #ffffff;
+}
+
+.custom-navbar .icon-bar {
+    background-color: #ffffff;
+}
+
+/* Mobile menu dropdown styles */
+.navbar-nav > li > a {
+    background-color: #555555;
+    color: #ffffff;
+    padding: 15px;
+    text-align: center;
+}
+
+.navbar-nav > li > a:hover {
+    background-color: #666666;
+}
+
+/* Page heading custom styles */
+.custom-heading {
+    color: #343a40;
+    font-weight: bold;
+    font-size: 36px;
+    margin-top: 20px;
+    margin-bottom: 40px;
+}
+
+/* Section custom styles */
+.section {
+    height: 1000px;
+    background-color: #e9ecef;
+    padding: 20px;
+    border-radius: 8px;
+    box-shadow: 0 2px 8px rgba(0, 0, 0, 0.1);
+}
